@@ -157,13 +157,13 @@ function playSadSong() {
         </style>
       </head>
       <body>
-        <h1>Dear Wani,</h1>
+        <h1>Dear Rose,</h1>
         <p>I am so excited to meet you for our first date!</p>
         <p>Let's have an amazing time together at:</p>
-        <p><strong>WoodFire</strong></p>
-        <p>📍 <a href="https://www.google.com/maps/dir/1.3172736,103.7172736/woodfire+permas/@1.4058775,103.6778836,12z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x31da6d00122cb849:0x12b8101755b70fb5!2m2!1d103.8123917!2d1.4968024?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D" target="_blank">Click here for directions</a></p>
-        <p>📅 Date: <strong>29th January</strong></p>
-        <p>⏰ Time: <strong>7:00 PM</strong></p>
+        <p><strong>Kuala Lumpur Butterfly Pary</strong></p>
+        <p>📍 <a href="https://www.google.com/maps?client=safari&rls=en&oe=UTF-8&dlnr=1&um=1&ie=UTF-8&fb=1&gl=my&sa=X&geocode=KfMHyEXJScwxMW3eW-OZIuFj&daddr=Jalan+Cenderawasih,+Tasik+Perdana,+50480+Kuala+Lumpur,+Wilayah+Persekutuan+Kuala+Lumpur" target="_blank">Click here for directions</a></p>
+        <p>📅 Date: <strong>14th February 2025</strong></p>
+        <p>⏰ Time: <strong>5:00 PM</strong></p>
         <p>Let's celebrate this moment together! ❤️</p>
   
         <button class="confirm-button" onclick="confirmDate()">Confirm Date via WhatsApp</button>
