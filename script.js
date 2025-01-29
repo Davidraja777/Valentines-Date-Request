@@ -170,7 +170,7 @@ function playSadSong() {
   
         <script>
           function confirmDate() {
-            const phoneNumber = "+601125830761";  // Replace with your WhatsApp number
+            const phoneNumber = "601125830761";  // Replace with your WhatsApp number
             const message = "Hi, I've accepted your date!";
             const whatsappURL = "https://wa.me/" + phoneNumber + "?text=" + encodeURIComponent(message);
             window.open(whatsappURL, "_blank");
